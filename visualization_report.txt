@@ -1,0 +1,42 @@
+CODEALPHA DATA VISUALIZATION REPORT
+=============================================
+Total rows after cleaning: 3900
+Total columns: 18
+Duplicate rows removed: 0
+
+Missing Values by Column:
+Customer ID               0
+Age                       0
+Gender                    0
+Item Purchased            0
+Category                  0
+Purchase Amount (USD)     0
+Location                  0
+Size                      0
+Color                     0
+Season                    0
+Review Rating             0
+Subscription Status       0
+Shipping Type             0
+Discount Applied          0
+Promo Code Used           0
+Previous Purchases        0
+Payment Method            0
+Frequency of Purchases    0
+
+Purchase Amount Statistics:
+count    3900.00
+mean       59.76
+std        23.69
+min        20.00
+25%        39.00
+50%        60.00
+75%        81.00
+max       100.00
+
+Total Purchase Amount by Category:
+Category
+Clothing       104264
+Accessories     74200
+Footwear        36093
+Outerwear       18524
